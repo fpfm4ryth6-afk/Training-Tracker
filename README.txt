@@ -30,3 +30,4 @@ Daher die Website-Daten in Safari nicht löschen, wenn du die Trainingshistorie 
 - Gewicht, Wiederholungen und RIR eintragen.
 - **Satz fertig · Pause starten** tippen.
 - Der Timer startet automatisch und der nächste Satz wird vorbereitet.
+
